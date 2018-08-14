@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+label{
+      color: blue;
+}
+#contenedorform,
+
+.input{
+    margin-bottom:10px;
+}
+#contenedorform{
+    width: 960px;
+    text-align: center;
+    margin: 15px auto;
+}
+#menu{
+    text-align: center;
+    margin: 10px auto;
+    background-color: aqua;
+}
+ul,li,a{
+list-style: none;
+text-decoration: none;
+color: black;
+}
+
+li a:hover{
+    background-color: green;
+    color: white;
+
+}
+header {
+    display: inline-block;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+#centrar2{
+    text-align: center;
+    display: flex;
+}
+table, tr, th,td
+{
+    border: 1px solid black;
+}
+h2:first-letter
+{
+    color: orange;
+}
+#cabecera_princioal{
+    background-color: blue;
+    width: 100%;
+}

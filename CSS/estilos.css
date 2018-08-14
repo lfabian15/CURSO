@@ -1,0 +1,53 @@
+body{
+	width: 60em;
+	margin:0 auto;
+}
+
+h1
+{
+	text-align: center;
+}
+#datos, #principal{
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+#principal
+{
+	width: 50p
+}
+
+
+#datos{
+	width: 16em;
+}
+#principal{
+	width: 44em;
+}
+#contenido{
+	list-style-type: none;
+	padding: 0;
+	columns: 3;
+}
+
+#contenido li{
+	float: left;
+	width: 
+}
+
+*{
+	background-color: lightgreen;
+
+}
+#d
+{
+	width: 80%;
+	height: 80px;
+}
+#boton{
+	background-color: red;
+}
+textarea
+{
+	background-color: white;
+}
